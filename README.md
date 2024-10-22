@@ -1,6 +1,6 @@
 # Range selection from zero always while having both negative and positive values in SfSlider
 
-This repository contains a sample to create visualize sector by employment using Flutter slider [Syncfusion Flutter Slider](https://help.syncfusion.com/flutter/slider/getting-started) widget.
+This repository contains a sample to start the range selection from zero always while having both negative and positive values in Flutter slider [Syncfusion Flutter Slider](https://help.syncfusion.com/flutter/slider/getting-started) widget.
 
 Refer KB through this link [KB](https://support.syncfusion.com/agent/kb/17121)
 
